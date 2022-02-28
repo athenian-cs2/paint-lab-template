@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        SudokuBoard q = new SudokuBoard();
+        PaintDemo d = new PaintDemo();
+        // PaintProgram p = new PaintProgram();
     }
 }

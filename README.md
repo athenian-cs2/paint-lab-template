@@ -1,6 +1,6 @@
-# Week 8 Day 2: More Listeners
+# Week 9 Day 1: Paint Lab, Day 1
 
-In class today, we'll be working with more listeners. 
+In class today, we'll start the Paint Lab. 
 
 <br />
 
